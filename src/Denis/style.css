@@ -1,0 +1,125 @@
+#nav {  height: 85px; }
+
+#nav li {
+    display: inline;
+}
+#nav a {
+    text-decoration: none !important;
+    font-family: Gilroy-Bold;
+font-size: 18px !important;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: #828282 !important;
+}
+
+#nav a:hover {
+    color: black !important;
+}
+.nav_hr {
+    height: 2px;
+    width: 100%;
+    background-color: #828282;
+    
+}
+.denis_norik {
+    font-family: Gilroy-Bold;
+font-size: 47px !important;
+line-height: 59px !important;
+letter-spacing: 0em !important;
+text-align: left;
+/* color: red; */
+font-weight: bold !important;
+
+}
+h1 {
+    font-family: Gilroy-Bold;
+
+}
+p {
+    margin-bottom: 0 !important;
+    font-family: Gilroy-Bold;
+
+}
+.about_me {
+    background: #f6f6f6;
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+}
+.skills {
+    padding-top: 120px;
+    padding-bottom: 120px; 
+}
+.ptt {
+    padding-left: 10%!important ;
+    padding-right: 10% !important;
+}
+.kard p {
+    font-family: Gilroy-Bold;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    
+}
+.kard img:nth-child(1) {
+    width: 80px;
+    margin-bottom: 25px;
+}
+.kard img:nth-child(4) {
+    width: 120px;
+    margin-top: 40px;
+}
+.mt-6 {
+    margin-top: 80px !important;
+}
+#figma-icon {
+    width: 50px !important;
+}
+.port a{
+  
+    color: black !important;
+}
+.btn2 {
+    background-color: black !important;
+    color: white !important;
+    font-family: Gilroy-Bold;
+   border-radius: 100px !important;
+   padding:8px 30px !important;
+}
+
+@media screen and (min-width: 800px){
+    .contact-icons {
+        width: 40% !important;
+    } 
+}
+
+.contact p{
+    font-family: Gilroy-bold;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.footer {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300 !important;
+    margin-top: 60px;
+    color: #828282;
+
+}
+.menu {
+    height: 50px !important;
+}
+.offcanvas-header {
+    position: absolute;
+    top: 16px;
+    
+    width: 100%;
+}
+.offcanvas-header button {
+    width: 20px !important;
+    height: 20px !important;
+}
