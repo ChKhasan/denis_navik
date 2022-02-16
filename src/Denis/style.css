@@ -1,5 +1,8 @@
 #nav {  height: 85px; }
-
+@font-face {
+    font-family: Gilroy-Bold;
+    src: url(./gilroy-bold.ttf);
+}
 #nav li {
     display: inline;
 }
