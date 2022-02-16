@@ -5,7 +5,7 @@
 }
 #nav a {
     text-decoration: none !important;
-    font-family: Gilroy-Bold;
+    font-family: 'Gilroy-Bold';
 font-size: 18px !important;
 line-height: 22px;
 letter-spacing: 0em;
@@ -23,7 +23,7 @@ color: #828282 !important;
     
 }
 .denis_norik {
-    font-family: Gilroy-Bold;
+    font-family: 'Gilroy-Bold';
 font-size: 47px !important;
 line-height: 59px !important;
 letter-spacing: 0em !important;
@@ -33,12 +33,12 @@ font-weight: bold !important;
 
 }
 h1 {
-    font-family: Gilroy-Bold;
+    font-family: 'Gilroy-Bold';
 
 }
 p {
     margin-bottom: 0 !important;
-    font-family: Gilroy-Bold;
+    font-family: 'Gilroy-Bold';
 
 }
 .about_me {
@@ -56,7 +56,7 @@ p {
     padding-right: 10% !important;
 }
 .kard p {
-    font-family: Gilroy-Bold;
+    font-family: 'Gilroy-Bold';
     font-size: 14px;
     line-height: 17px;
     letter-spacing: 0em;
@@ -84,7 +84,7 @@ p {
 .btn2 {
     background-color: black !important;
     color: white !important;
-    font-family: Gilroy-Bold;
+    font-family: 'Gilroy-Bold';
    border-radius: 100px !important;
    padding:8px 30px !important;
 }
